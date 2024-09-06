@@ -108,6 +108,6 @@ increasing profit by 10% and market share by 5%. This data-driven approach
 should provide a competitive edge in the used car market.
 '''
 
-# LINK to the notebook: https://github.com/udayshankark/PAA11_1/blob/main/prompt.ipynb
+# LINK to the notebook: https://github.com/udayshankark/PAA11_1/blob/master/prompt_II.ipynb
 
-# Visualization images and report are located in the /images folder : https://github.com/udayshankark/PAA11_1/tree/main/images
+# Visualization images and report(used_car_sales.pdf) are located in the /images folder : https://github.com/udayshankark/PAA11_1/tree/master/images
