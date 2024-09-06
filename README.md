@@ -36,8 +36,7 @@ Implementing these insights can help increase profitability by 10% and market sh
 ## Key Findings
 
 '''
-1. Model Performance: Polynomial regression (degree 3) outperformed linear models,
-   indicating non-linear relationships in pricing factors.
+1. Our analysis indicated non-linear relationships in pricing factors.
 
 2. Most Influential Features:
    - Location (State)
